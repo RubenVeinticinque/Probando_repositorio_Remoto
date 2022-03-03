@@ -4,4 +4,4 @@
 
 Lista completa de todos los comandos
 
-[Lista de Comandos](https://git-scm.com/docs#:~:text=Setup%20and%20Config,write%2Dtree)
+[Lista de Comandos](https://git-scm.com/docs)
